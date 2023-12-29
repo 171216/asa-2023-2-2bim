@@ -5,7 +5,7 @@ apk update
 apk add samba-dc krb5
 
 ## Configuração
-smb.conf
+nano /etc/samba/smb.conf
 
 Incluir o(s) nome(s) e o conteúdo do(s) arquivo(s) de configuração.
 
