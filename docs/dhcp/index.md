@@ -2,9 +2,14 @@
 
 ## Instalação
 
+apk update
+
+apk add dnsmasq
 
 
 ## Configuração
+
+
 
 Incluir o(s) nome(s) e o conteúdo do(s) arquivo(s) de configuração.
 

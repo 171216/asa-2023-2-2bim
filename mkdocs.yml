@@ -4,8 +4,6 @@ site_author: Erica Taynara
 theme:
   name: readthedocs
 
-theme:
-  name: material
-  language: pt
+
 
   
