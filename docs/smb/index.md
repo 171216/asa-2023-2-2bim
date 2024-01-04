@@ -5,7 +5,6 @@ Comando para atualizar o catalogo:
 
 apk update
 
-<<<<<<< HEAD
 Comando para instalar o servidor samba:
 
 apk add samba-dc krb5
