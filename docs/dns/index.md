@@ -4,6 +4,8 @@
 
 apk update 
 
+apk add samba-dc krb5
+
 ## Configuração
 
 [![hostaa](https://i.im.ge/2024/01/04/3l29UD.hostaa.png)](https://im.ge/i/3l29UD)
