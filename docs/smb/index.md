@@ -18,6 +18,8 @@ Comando para configurar o samba:
 
 nano /etc/samba/smb.conf
 
+[![confsamba](https://i.im.ge/2024/01/09/3mOVep.confsamba.png)](https://im.ge/i/3mOVep)
+
 ### Tela de configuração
 
 [![criandopasta](https://i.im.ge/2024/01/04/3XVQCG.criandopasta.png)](https://im.ge/i/3XVQCG)
@@ -50,14 +52,6 @@ nano /etc/samba/smb.conf
 
 
 
-=======
-apk add samba-dc krb5
-
-## Configuração
-
-nano /etc/samba/smb.conf
-
->>>>>>> fc1c8ed26f87975a2793b6cf562f4fa7af61f6db
 Incluir o(s) nome(s) e o conteúdo do(s) arquivo(s) de configuração.
 
 1. Criar 2 grupos para dois de seus sobrenomes;

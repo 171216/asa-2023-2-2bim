@@ -11,7 +11,7 @@ sudo apt install squid
 
 nano /etc/squid/squid.conf
 
-[![confsquid](https://i.im.ge/2024/01/03/3MRLWG.confsquid.png)](https://im.ge/i/3MRLWG)
+[![aclconf](https://i.im.ge/2024/01/09/3mOegc.aclconf.png)](https://im.ge/i/3mOegc)
 
 
 #### Este conmando server para copiar os arquivos para o outro aquivo a seguir
